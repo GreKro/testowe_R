@@ -4,4 +4,4 @@ dir <- "d://"
 
 shp <- readOGR(dir,ogrListLayers(dir),stringsAsFasctors=F) 
 
-## change
+## change 2
